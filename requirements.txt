@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+spacy
+geopy
+unidecode
+geonamescache
+jupyter
+ipykernel 

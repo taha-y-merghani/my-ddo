@@ -1,0 +1,200 @@
+2024-01-01	Bangkok, Thailand reports spike in tropical fever infections, 6 new cases
+2024-01-01	Breaking: 59 Zika cases identified in Manila, Philippines
+2024-01-01	Breaking: 71 mosquito-borne illness cases identified in Jakarta, Indonesia
+2024-01-01	Jakarta, Indonesia reports spike in Zika-like virus infections, 100 new cases
+2024-01-02	Rio de Janeiro, Brazil reports spike in mosquito-borne illness infections, 74 new cases
+2024-01-03	Zika-like virus spreads in Bangkok, Thailand, authorities on high alert
+2024-01-05	New Zika-like virus cases reported in San Juan, Puerto Rico: 32 infected
+2024-01-05	Rio de Janeiro, Brazil reports spike in mosquito-borne illness infections, 75 new cases
+2024-01-06	Breaking: 28 Zika cases identified in Mexico City, Mexico
+2024-01-07	Breaking: 43 Zika cases identified in Manila, Philippines
+2024-01-07	Zika spreads in San Juan, Puerto Rico, authorities on high alert
+2024-01-10	New tropical fever cases reported in Manila, Philippines: 91 infected
+2024-01-10	Singapore reports spike in viral infection infections, 8 new cases
+2024-01-11	Mexico City, Mexico reports spike in tropical fever infections, 21 new cases
+2024-01-12	Breaking: 64 viral infection cases identified in Jakarta, Indonesia
+2024-01-12	Health officials confirm viral infection outbreak in Manila, Philippines
+2024-01-12	New Zika cases reported in Manila, Philippines: 24 infected
+2024-01-13	New mosquito-borne illness cases reported in Mexico City, Mexico: 75 infected
+2024-01-13	New viral infection cases reported in Miami, Florida: 89 infected
+2024-01-13	Zika spreads in San Juan, Puerto Rico, authorities on high alert
+2024-01-14	Breaking: 79 Zika cases identified in Jakarta, Indonesia
+2024-01-16	Bangkok, Thailand reports spike in mosquito-borne illness infections, 5 new cases
+2024-01-16	Breaking: 11 viral infection cases identified in Miami, Florida
+2024-01-16	Breaking: 65 Zika cases identified in Manila, Philippines
+2024-01-16	Health officials confirm mosquito-borne illness outbreak in Mexico City, Mexico
+2024-01-16	Health officials confirm tropical fever outbreak in Rio de Janeiro, Brazil
+2024-01-16	New Zika-like virus cases reported in Manila, Philippines: 60 infected
+2024-01-17	Health officials confirm Zika-like virus outbreak in Manila, Philippines
+2024-01-17	Health officials confirm Zika-like virus outbreak in Miami, Florida
+2024-01-18	Zika-like virus spreads in Manila, Philippines, authorities on high alert
+2024-01-20	Health officials confirm mosquito-borne illness outbreak in Manila, Philippines
+2024-01-21	Manila, Philippines reports spike in tropical fever infections, 36 new cases
+2024-01-21	Singapore reports spike in mosquito-borne illness infections, 79 new cases
+2024-01-21	Zika-like virus spreads in Jakarta, Indonesia, authorities on high alert
+2024-01-22	Health officials confirm tropical fever outbreak in Miami, Florida
+2024-01-23	Jakarta, Indonesia reports spike in mosquito-borne illness infections, 96 new cases
+2024-01-23	New viral infection cases reported in Jakarta, Indonesia: 59 infected
+2024-01-25	Breaking: 14 Zika cases identified in Singapore
+2024-01-25	Health officials confirm tropical fever outbreak in San Juan, Puerto Rico
+2024-01-25	Miami, Florida reports spike in Zika-like virus infections, 98 new cases
+2024-01-25	New mosquito-borne illness cases reported in Singapore: 14 infected
+2024-01-26	Breaking: 100 Zika-like virus cases identified in Jakarta, Indonesia
+2024-01-26	Breaking: 67 viral infection cases identified in Mexico City, Mexico
+2024-01-26	Zika-like virus spreads in Bangkok, Thailand, authorities on high alert
+2024-01-27	Breaking: 11 Zika cases identified in Bangkok, Thailand
+2024-01-27	Health officials confirm Zika-like virus outbreak in Manila, Philippines
+2024-01-27	tropical fever spreads in Rio de Janeiro, Brazil, authorities on high alert
+2024-01-29	Health officials confirm Zika-like virus outbreak in Jakarta, Indonesia
+2024-01-29	Health officials confirm tropical fever outbreak in Jakarta, Indonesia
+2024-01-29	Rio de Janeiro, Brazil reports spike in mosquito-borne illness infections, 80 new cases
+2024-01-29	mosquito-borne illness spreads in Jakarta, Indonesia, authorities on high alert
+2024-01-30	Breaking: 17 Zika-like virus cases identified in Mexico City, Mexico
+2024-01-30	Zika spreads in Singapore, authorities on high alert
+2024-01-31	Breaking: 52 Zika cases identified in San Juan, Puerto Rico
+2024-01-31	New mosquito-borne illness cases reported in Jakarta, Indonesia: 33 infected
+2024-02-03	New mosquito-borne illness cases reported in Manila, Philippines: 48 infected
+2024-02-03	tropical fever spreads in Jakarta, Indonesia, authorities on high alert
+2024-02-04	Health officials confirm mosquito-borne illness outbreak in Jakarta, Indonesia
+2024-02-04	Jakarta, Indonesia reports spike in Zika-like virus infections, 36 new cases
+2024-02-05	Breaking: 42 Zika cases identified in Miami, Florida
+2024-02-05	Mexico City, Mexico reports spike in mosquito-borne illness infections, 14 new cases
+2024-02-05	New Zika cases reported in Rio de Janeiro, Brazil: 90 infected
+2024-02-05	New tropical fever cases reported in Miami, Florida: 94 infected
+2024-02-05	Zika-like virus spreads in Rio de Janeiro, Brazil, authorities on high alert
+2024-02-06	tropical fever spreads in Mexico City, Mexico, authorities on high alert
+2024-02-07	Health officials confirm Zika-like virus outbreak in Miami, Florida
+2024-02-07	New Zika cases reported in Jakarta, Indonesia: 48 infected
+2024-02-07	Rio de Janeiro, Brazil reports spike in tropical fever infections, 10 new cases
+2024-02-07	Zika spreads in Singapore, authorities on high alert
+2024-02-07	viral infection spreads in Rio de Janeiro, Brazil, authorities on high alert
+2024-02-08	Rio de Janeiro, Brazil reports spike in tropical fever infections, 85 new cases
+2024-02-09	Breaking: 10 Zika-like virus cases identified in Bangkok, Thailand
+2024-02-09	Breaking: 45 mosquito-borne illness cases identified in Singapore
+2024-02-09	New mosquito-borne illness cases reported in San Juan, Puerto Rico: 72 infected
+2024-02-10	Breaking: 21 mosquito-borne illness cases identified in Singapore
+2024-02-10	Health officials confirm Zika outbreak in San Juan, Puerto Rico
+2024-02-10	Rio de Janeiro, Brazil reports spike in viral infection infections, 31 new cases
+2024-02-11	Breaking: 78 Zika-like virus cases identified in Jakarta, Indonesia
+2024-02-11	Zika spreads in San Juan, Puerto Rico, authorities on high alert
+2024-02-11	Zika-like virus spreads in Mexico City, Mexico, authorities on high alert
+2024-02-12	New mosquito-borne illness cases reported in Rio de Janeiro, Brazil: 62 infected
+2024-02-12	New tropical fever cases reported in Mexico City, Mexico: 50 infected
+2024-02-12	tropical fever spreads in Mexico City, Mexico, authorities on high alert
+2024-02-13	Health officials confirm Zika outbreak in Miami, Florida
+2024-02-13	Health officials confirm mosquito-borne illness outbreak in Bangkok, Thailand
+2024-02-15	Breaking: 16 viral infection cases identified in Rio de Janeiro, Brazil
+2024-02-15	Breaking: 68 tropical fever cases identified in Bangkok, Thailand
+2024-02-15	Breaking: 69 mosquito-borne illness cases identified in Singapore
+2024-02-15	Singapore reports spike in Zika-like virus infections, 99 new cases
+2024-02-16	Breaking: 25 Zika cases identified in Mexico City, Mexico
+2024-02-17	Manila, Philippines reports spike in Zika infections, 50 new cases
+2024-02-17	mosquito-borne illness spreads in Singapore, authorities on high alert
+2024-02-18	Health officials confirm tropical fever outbreak in Singapore
+2024-02-18	Health officials confirm viral infection outbreak in Rio de Janeiro, Brazil
+2024-02-18	Manila, Philippines reports spike in viral infection infections, 83 new cases
+2024-02-18	Rio de Janeiro, Brazil reports spike in viral infection infections, 9 new cases
+2024-02-19	Health officials confirm tropical fever outbreak in Rio de Janeiro, Brazil
+2024-02-20	Health officials confirm tropical fever outbreak in Mexico City, Mexico
+2024-02-20	Mexico City, Mexico reports spike in Zika infections, 98 new cases
+2024-02-20	New Zika cases reported in Miami, Florida: 50 infected
+2024-02-21	Breaking: 42 viral infection cases identified in Miami, Florida
+2024-02-21	Health officials confirm Zika-like virus outbreak in Jakarta, Indonesia
+2024-02-21	New Zika cases reported in Jakarta, Indonesia: 91 infected
+2024-02-21	Zika-like virus spreads in Rio de Janeiro, Brazil, authorities on high alert
+2024-02-22	Breaking: 90 mosquito-borne illness cases identified in San Juan, Puerto Rico
+2024-02-23	Breaking: 69 tropical fever cases identified in Rio de Janeiro, Brazil
+2024-02-23	Health officials confirm Zika-like virus outbreak in Mexico City, Mexico
+2024-02-24	Breaking: 40 Zika cases identified in Bangkok, Thailand
+2024-02-24	Breaking: 45 viral infection cases identified in San Juan, Puerto Rico
+2024-02-24	Breaking: 66 viral infection cases identified in San Juan, Puerto Rico
+2024-02-24	Breaking: 88 Zika cases identified in San Juan, Puerto Rico
+2024-02-24	Jakarta, Indonesia reports spike in Zika infections, 99 new cases
+2024-02-25	Breaking: 36 Zika cases identified in San Juan, Puerto Rico
+2024-02-25	New mosquito-borne illness cases reported in Manila, Philippines: 38 infected
+2024-02-25	New tropical fever cases reported in Manila, Philippines: 95 infected
+2024-02-25	mosquito-borne illness spreads in Jakarta, Indonesia, authorities on high alert
+2024-02-26	Bangkok, Thailand reports spike in mosquito-borne illness infections, 24 new cases
+2024-02-26	Health officials confirm viral infection outbreak in Jakarta, Indonesia
+2024-02-26	mosquito-borne illness spreads in Singapore, authorities on high alert
+2024-02-28	Health officials confirm Zika-like virus outbreak in Manila, Philippines
+2024-02-29	Breaking: 58 Zika cases identified in Mexico City, Mexico
+2024-03-01	Health officials confirm tropical fever outbreak in Singapore
+2024-03-01	New Zika-like virus cases reported in Bangkok, Thailand: 30 infected
+2024-03-01	New tropical fever cases reported in Rio de Janeiro, Brazil: 54 infected
+2024-03-01	tropical fever spreads in Miami, Florida, authorities on high alert
+2024-03-02	Breaking: 44 Zika cases identified in Rio de Janeiro, Brazil
+2024-03-02	Health officials confirm viral infection outbreak in Bangkok, Thailand
+2024-03-02	Singapore reports spike in Zika-like virus infections, 20 new cases
+2024-03-03	Breaking: 57 mosquito-borne illness cases identified in Miami, Florida
+2024-03-04	Jakarta, Indonesia reports spike in Zika-like virus infections, 75 new cases
+2024-03-05	Health officials confirm mosquito-borne illness outbreak in Bangkok, Thailand
+2024-03-05	Health officials confirm mosquito-borne illness outbreak in San Juan, Puerto Rico
+2024-03-05	New Zika-like virus cases reported in San Juan, Puerto Rico: 91 infected
+2024-03-05	mosquito-borne illness spreads in Manila, Philippines, authorities on high alert
+2024-03-06	Health officials confirm Zika outbreak in Miami, Florida
+2024-03-06	San Juan, Puerto Rico reports spike in mosquito-borne illness infections, 92 new cases
+2024-03-06	tropical fever spreads in Miami, Florida, authorities on high alert
+2024-03-07	New Zika-like virus cases reported in Mexico City, Mexico: 14 infected
+2024-03-07	San Juan, Puerto Rico reports spike in viral infection infections, 45 new cases
+2024-03-07	mosquito-borne illness spreads in Singapore, authorities on high alert
+2024-03-08	Health officials confirm mosquito-borne illness outbreak in San Juan, Puerto Rico
+2024-03-08	San Juan, Puerto Rico reports spike in tropical fever infections, 36 new cases
+2024-03-08	Singapore reports spike in viral infection infections, 52 new cases
+2024-03-08	mosquito-borne illness spreads in Manila, Philippines, authorities on high alert
+2024-03-09	Breaking: 80 Zika cases identified in Singapore
+2024-03-09	Miami, Florida reports spike in viral infection infections, 35 new cases
+2024-03-09	New tropical fever cases reported in Rio de Janeiro, Brazil: 40 infected
+2024-03-09	Singapore reports spike in mosquito-borne illness infections, 67 new cases
+2024-03-10	Breaking: 62 viral infection cases identified in San Juan, Puerto Rico
+2024-03-10	Health officials confirm Zika outbreak in Singapore
+2024-03-10	Health officials confirm tropical fever outbreak in Jakarta, Indonesia
+2024-03-10	New tropical fever cases reported in Jakarta, Indonesia: 51 infected
+2024-03-10	New tropical fever cases reported in Miami, Florida: 6 infected
+2024-03-10	tropical fever spreads in San Juan, Puerto Rico, authorities on high alert
+2024-03-11	Singapore reports spike in Zika-like virus infections, 84 new cases
+2024-03-12	Breaking: 42 viral infection cases identified in Rio de Janeiro, Brazil
+2024-03-12	New Zika-like virus cases reported in Mexico City, Mexico: 57 infected
+2024-03-12	Zika-like virus spreads in Manila, Philippines, authorities on high alert
+2024-03-13	Breaking: 27 Zika-like virus cases identified in Bangkok, Thailand
+2024-03-13	Breaking: 54 viral infection cases identified in Bangkok, Thailand
+2024-03-13	Singapore reports spike in Zika infections, 63 new cases
+2024-03-14	New Zika cases reported in Mexico City, Mexico: 95 infected
+2024-03-14	New tropical fever cases reported in Mexico City, Mexico: 21 infected
+2024-03-15	Zika spreads in Singapore, authorities on high alert
+2024-03-16	Health officials confirm Zika outbreak in Rio de Janeiro, Brazil
+2024-03-16	Jakarta, Indonesia reports spike in Zika-like virus infections, 74 new cases
+2024-03-17	New mosquito-borne illness cases reported in San Juan, Puerto Rico: 84 infected
+2024-03-18	New mosquito-borne illness cases reported in San Juan, Puerto Rico: 99 infected
+2024-03-18	New tropical fever cases reported in Singapore: 23 infected
+2024-03-18	mosquito-borne illness spreads in Mexico City, Mexico, authorities on high alert
+2024-03-19	mosquito-borne illness spreads in San Juan, Puerto Rico, authorities on high alert
+2024-03-20	Bangkok, Thailand reports spike in mosquito-borne illness infections, 29 new cases
+2024-03-20	Bangkok, Thailand reports spike in viral infection infections, 41 new cases
+2024-03-20	Health officials confirm tropical fever outbreak in Miami, Florida
+2024-03-21	Bangkok, Thailand reports spike in tropical fever infections, 26 new cases
+2024-03-21	Zika spreads in Mexico City, Mexico, authorities on high alert
+2024-03-21	Zika spreads in Miami, Florida, authorities on high alert
+2024-03-21	tropical fever spreads in Bangkok, Thailand, authorities on high alert
+2024-03-22	Health officials confirm mosquito-borne illness outbreak in Mexico City, Mexico
+2024-03-22	New Zika cases reported in San Juan, Puerto Rico: 27 infected
+2024-03-23	New tropical fever cases reported in Miami, Florida: 10 infected
+2024-03-24	Breaking: 67 viral infection cases identified in San Juan, Puerto Rico
+2024-03-24	Breaking: 82 viral infection cases identified in Manila, Philippines
+2024-03-24	Mexico City, Mexico reports spike in viral infection infections, 72 new cases
+2024-03-25	Manila, Philippines reports spike in Zika infections, 49 new cases
+2024-03-25	New Zika cases reported in Rio de Janeiro, Brazil: 56 infected
+2024-03-26	New tropical fever cases reported in Manila, Philippines: 45 infected
+2024-03-26	Zika-like virus spreads in Jakarta, Indonesia, authorities on high alert
+2024-03-28	Breaking: 34 viral infection cases identified in Singapore
+2024-03-28	Health officials confirm Zika outbreak in Miami, Florida
+2024-03-28	Zika-like virus spreads in Rio de Janeiro, Brazil, authorities on high alert
+2024-03-28	viral infection spreads in Mexico City, Mexico, authorities on high alert
+2024-03-29	New Zika cases reported in Mexico City, Mexico: 36 infected
+2024-03-29	Zika-like virus spreads in San Juan, Puerto Rico, authorities on high alert
+2024-03-30	Breaking: 71 mosquito-borne illness cases identified in Singapore
+2024-03-30	Breaking: 81 mosquito-borne illness cases identified in Bangkok, Thailand
+2024-03-30	Health officials confirm mosquito-borne illness outbreak in Jakarta, Indonesia
+2024-03-30	New mosquito-borne illness cases reported in Singapore: 58 infected
+2024-03-30	New tropical fever cases reported in Bangkok, Thailand: 82 infected
+2024-03-30	tropical fever spreads in Bangkok, Thailand, authorities on high alert

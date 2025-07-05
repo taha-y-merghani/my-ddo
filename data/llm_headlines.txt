@@ -1,0 +1,200 @@
+2024-01-01	Public Health Officials Monitor Zika Surge in Singapore
+2024-01-02	Breaking: Bogotá, Colombia Reports 47 New Cases of Tropical Fever
+2024-01-02	Public Health Officials Monitor Zika Surge in Bogotá, Colombia
+2024-01-02	Public Health Officials Monitor Zika Surge in Singapore
+2024-01-02	Public Health Officials Monitor Zika Surge in Singapore
+2024-01-03	Health Alert: Zika-like Virus Spreads in Singapore
+2024-01-03	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-01-03	Public Health Officials Monitor Zika Surge in Singapore
+2024-01-04	Public Health Officials Monitor Zika Surge in Houston, Texas
+2024-01-05	Public Health Officials Monitor Zika Surge in Bogotá, Colombia
+2024-01-05	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-01-06	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-01-08	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-01-09	Breaking: Manila, Philippines Reports 47 New Cases of Tropical Fever
+2024-01-11	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-01-12	Breaking: Bangkok, Thailand Reports 47 New Cases of Tropical Fever
+2024-01-12	Breaking: Jakarta, Indonesia Reports 47 New Cases of Tropical Fever
+2024-01-12	Mosquito-borne Illness Outbreak Confirmed in Bogotá, Colombia
+2024-01-12	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-01-12	Public Health Officials Monitor Zika Surge in Bogotá, Colombia
+2024-01-12	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-01-13	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-01-13	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-01-14	Breaking: São Paulo, Brazil Reports 47 New Cases of Tropical Fever
+2024-01-14	Public Health Officials Monitor Zika Surge in Bangkok, Thailand
+2024-01-15	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-01-15	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-01-16	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-01-18	Breaking: Bangkok, Thailand Reports 47 New Cases of Tropical Fever
+2024-01-18	Health Alert: Zika-like Virus Spreads in San Juan, Puerto Rico
+2024-01-19	Breaking: Bogotá, Colombia Reports 47 New Cases of Tropical Fever
+2024-01-19	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-01-19	Public Health Officials Monitor Zika Surge in Manila, Philippines
+2024-01-20	Breaking: Bogotá, Colombia Reports 47 New Cases of Tropical Fever
+2024-01-20	Health Alert: Zika-like Virus Spreads in Miami, Florida
+2024-01-20	Public Health Officials Monitor Zika Surge in Bogotá, Colombia
+2024-01-22	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-01-22	Health Alert: Zika-like Virus Spreads in Singapore
+2024-01-25	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-01-25	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-01-27	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-01-28	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-01-28	Mosquito-borne Illness Outbreak Confirmed in São Paulo, Brazil
+2024-01-29	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-01-29	Breaking: San Juan, Puerto Rico Reports 47 New Cases of Tropical Fever
+2024-01-29	Mosquito-borne Illness Outbreak Confirmed in Miami, Florida
+2024-01-29	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-01-29	Public Health Officials Monitor Zika Surge in Houston, Texas
+2024-01-30	Breaking: Houston, Texas Reports 47 New Cases of Tropical Fever
+2024-01-31	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-02-01	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-02-01	Health Alert: Zika-like Virus Spreads in Bogotá, Colombia
+2024-02-03	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-02-04	Mosquito-borne Illness Outbreak Confirmed in Manila, Philippines
+2024-02-04	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-02-04	Public Health Officials Monitor Zika Surge in Bangkok, Thailand
+2024-02-05	Breaking: Rio de Janeiro, Brazil Reports 47 New Cases of Tropical Fever
+2024-02-05	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-02-05	Health Alert: Zika-like Virus Spreads in Houston, Texas
+2024-02-07	Breaking: Rio de Janeiro, Brazil Reports 47 New Cases of Tropical Fever
+2024-02-07	Breaking: São Paulo, Brazil Reports 47 New Cases of Tropical Fever
+2024-02-07	Mosquito-borne Illness Outbreak Confirmed in Bogotá, Colombia
+2024-02-07	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-02-08	Health Alert: Zika-like Virus Spreads in Miami, Florida
+2024-02-08	Health Alert: Zika-like Virus Spreads in San Juan, Puerto Rico
+2024-02-08	Mosquito-borne Illness Outbreak Confirmed in Rio de Janeiro, Brazil
+2024-02-09	Breaking: Bangkok, Thailand Reports 47 New Cases of Tropical Fever
+2024-02-09	Health Alert: Zika-like Virus Spreads in Port Moresby, Papua New Guinea
+2024-02-09	Health Alert: Zika-like Virus Spreads in São Paulo, Brazil
+2024-02-09	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-02-10	Mosquito-borne Illness Outbreak Confirmed in Bangkok, Thailand
+2024-02-10	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-02-11	Breaking: Manila, Philippines Reports 47 New Cases of Tropical Fever
+2024-02-11	Mosquito-borne Illness Outbreak Confirmed in Bogotá, Colombia
+2024-02-12	Mosquito-borne Illness Outbreak Confirmed in Houston, Texas
+2024-02-13	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-02-13	Mosquito-borne Illness Outbreak Confirmed in Bangkok, Thailand
+2024-02-13	Mosquito-borne Illness Outbreak Confirmed in Manila, Philippines
+2024-02-13	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-02-14	Public Health Officials Monitor Zika Surge in Rio de Janeiro, Brazil
+2024-02-15	Breaking: Jakarta, Indonesia Reports 47 New Cases of Tropical Fever
+2024-02-15	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-02-15	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-02-16	Public Health Officials Monitor Zika Surge in Bangkok, Thailand
+2024-02-17	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-02-17	Mosquito-borne Illness Outbreak Confirmed in Miami, Florida
+2024-02-17	Mosquito-borne Illness Outbreak Confirmed in São Paulo, Brazil
+2024-02-18	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-02-19	Health Alert: Zika-like Virus Spreads in Houston, Texas
+2024-02-19	Health Alert: Zika-like Virus Spreads in Jakarta, Indonesia
+2024-02-21	Breaking: Houston, Texas Reports 47 New Cases of Tropical Fever
+2024-02-21	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-02-21	Mosquito-borne Illness Outbreak Confirmed in São Paulo, Brazil
+2024-02-22	Breaking: Manila, Philippines Reports 47 New Cases of Tropical Fever
+2024-02-22	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-02-22	Public Health Officials Monitor Zika Surge in Manila, Philippines
+2024-02-22	Public Health Officials Monitor Zika Surge in Rio de Janeiro, Brazil
+2024-02-23	Breaking: Miami, Florida Reports 47 New Cases of Tropical Fever
+2024-02-24	Breaking: São Paulo, Brazil Reports 47 New Cases of Tropical Fever
+2024-02-24	Health Alert: Zika-like Virus Spreads in São Paulo, Brazil
+2024-02-24	Mosquito-borne Illness Outbreak Confirmed in Miami, Florida
+2024-02-24	Public Health Officials Monitor Zika Surge in Bogotá, Colombia
+2024-02-25	Breaking: Jakarta, Indonesia Reports 47 New Cases of Tropical Fever
+2024-02-25	Health Alert: Zika-like Virus Spreads in Houston, Texas
+2024-02-25	Health Alert: Zika-like Virus Spreads in Jakarta, Indonesia
+2024-02-25	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-02-25	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-02-25	Public Health Officials Monitor Zika Surge in Bangkok, Thailand
+2024-02-26	Health Alert: Zika-like Virus Spreads in Rio de Janeiro, Brazil
+2024-02-26	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-02-27	Breaking: Miami, Florida Reports 47 New Cases of Tropical Fever
+2024-02-27	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-02-27	Mosquito-borne Illness Outbreak Confirmed in São Paulo, Brazil
+2024-02-27	Public Health Officials Monitor Zika Surge in Houston, Texas
+2024-02-28	Health Alert: Zika-like Virus Spreads in Port Moresby, Papua New Guinea
+2024-02-28	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-02-29	Breaking: San Juan, Puerto Rico Reports 47 New Cases of Tropical Fever
+2024-02-29	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-02-29	Health Alert: Zika-like Virus Spreads in San Juan, Puerto Rico
+2024-02-29	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-03-01	Breaking: Rio de Janeiro, Brazil Reports 47 New Cases of Tropical Fever
+2024-03-02	Health Alert: Zika-like Virus Spreads in Houston, Texas
+2024-03-03	Health Alert: Zika-like Virus Spreads in Rio de Janeiro, Brazil
+2024-03-03	Public Health Officials Monitor Zika Surge in Singapore
+2024-03-04	Breaking: Port Moresby, Papua New Guinea Reports 47 New Cases of Tropical Fever
+2024-03-04	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-03-04	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-03-05	Health Alert: Zika-like Virus Spreads in Bogotá, Colombia
+2024-03-05	Health Alert: Zika-like Virus Spreads in Jakarta, Indonesia
+2024-03-05	Health Alert: Zika-like Virus Spreads in São Paulo, Brazil
+2024-03-05	Mosquito-borne Illness Outbreak Confirmed in Rio de Janeiro, Brazil
+2024-03-05	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-03-05	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-03-05	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-03-06	Breaking: Jakarta, Indonesia Reports 47 New Cases of Tropical Fever
+2024-03-06	Mosquito-borne Illness Outbreak Confirmed in São Paulo, Brazil
+2024-03-07	Breaking: Houston, Texas Reports 47 New Cases of Tropical Fever
+2024-03-07	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-03-07	Public Health Officials Monitor Zika Surge in Rio de Janeiro, Brazil
+2024-03-08	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-03-08	Public Health Officials Monitor Zika Surge in Rio de Janeiro, Brazil
+2024-03-09	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-03-09	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-03-09	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-03-09	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-03-10	Breaking: São Paulo, Brazil Reports 47 New Cases of Tropical Fever
+2024-03-10	Health Alert: Zika-like Virus Spreads in Miami, Florida
+2024-03-10	Mosquito-borne Illness Outbreak Confirmed in Bogotá, Colombia
+2024-03-11	Breaking: Rio de Janeiro, Brazil Reports 47 New Cases of Tropical Fever
+2024-03-11	Health Alert: Zika-like Virus Spreads in Miami, Florida
+2024-03-12	Health Alert: Zika-like Virus Spreads in San Juan, Puerto Rico
+2024-03-13	Breaking: Houston, Texas Reports 47 New Cases of Tropical Fever
+2024-03-13	Health Alert: Zika-like Virus Spreads in Bogotá, Colombia
+2024-03-13	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-03-13	Health Alert: Zika-like Virus Spreads in São Paulo, Brazil
+2024-03-13	Public Health Officials Monitor Zika Surge in São Paulo, Brazil
+2024-03-14	Breaking: Miami, Florida Reports 47 New Cases of Tropical Fever
+2024-03-14	Health Alert: Zika-like Virus Spreads in Bogotá, Colombia
+2024-03-14	Public Health Officials Monitor Zika Surge in Bangkok, Thailand
+2024-03-15	Health Alert: Zika-like Virus Spreads in Bangkok, Thailand
+2024-03-16	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-03-17	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-03-19	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-03-19	Mosquito-borne Illness Outbreak Confirmed in Port Moresby, Papua New Guinea
+2024-03-19	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-03-20	Health Alert: Zika-like Virus Spreads in Jakarta, Indonesia
+2024-03-20	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-03-20	Public Health Officials Monitor Zika Surge in Houston, Texas
+2024-03-20	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-03-21	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-03-21	Health Alert: Zika-like Virus Spreads in Houston, Texas
+2024-03-21	Health Alert: Zika-like Virus Spreads in Jakarta, Indonesia
+2024-03-21	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-03-21	Health Alert: Zika-like Virus Spreads in Manila, Philippines
+2024-03-22	Mosquito-borne Illness Outbreak Confirmed in Jakarta, Indonesia
+2024-03-22	Mosquito-borne Illness Outbreak Confirmed in San Juan, Puerto Rico
+2024-03-22	Mosquito-borne Illness Outbreak Confirmed in Singapore
+2024-03-23	Mosquito-borne Illness Outbreak Confirmed in Houston, Texas
+2024-03-23	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-03-24	Health Alert: Zika-like Virus Spreads in Port Moresby, Papua New Guinea
+2024-03-24	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
+2024-03-24	Public Health Officials Monitor Zika Surge in San Juan, Puerto Rico
+2024-03-25	Breaking: São Paulo, Brazil Reports 47 New Cases of Tropical Fever
+2024-03-25	Public Health Officials Monitor Zika Surge in Jakarta, Indonesia
+2024-03-25	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-03-26	Mosquito-borne Illness Outbreak Confirmed in Bangkok, Thailand
+2024-03-26	Public Health Officials Monitor Zika Surge in Houston, Texas
+2024-03-26	Public Health Officials Monitor Zika Surge in Singapore
+2024-03-27	Health Alert: Zika-like Virus Spreads in Port Moresby, Papua New Guinea
+2024-03-28	Health Alert: Zika-like Virus Spreads in Miami, Florida
+2024-03-28	Mosquito-borne Illness Outbreak Confirmed in Miami, Florida
+2024-03-29	Breaking: Jakarta, Indonesia Reports 47 New Cases of Tropical Fever
+2024-03-29	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-03-29	Mosquito-borne Illness Outbreak Confirmed in Bogotá, Colombia
+2024-03-29	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-03-30	Breaking: Singapore Reports 47 New Cases of Tropical Fever
+2024-03-30	Health Alert: Zika-like Virus Spreads in Singapore
+2024-03-30	Mosquito-borne Illness Outbreak Confirmed in Rio de Janeiro, Brazil
+2024-03-30	Public Health Officials Monitor Zika Surge in Miami, Florida
+2024-03-30	Public Health Officials Monitor Zika Surge in Port Moresby, Papua New Guinea
