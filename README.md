@@ -17,6 +17,48 @@ We're enhancing the project by:
 - Implementing parallel analysis pipelines for comparison
 - Exploring improvements in NLP and visualization techniques
 
+## Replication Results (2025)
+
+### Data Processing Pipeline
+Successfully replicated the core analysis pipeline with modern tools:
+- **Data Loading**: 200 LLM-generated headlines (Jan 1 - Jul 18, 2024)
+- **Entity Extraction**: 168 locations (84%) and 154 diseases (77%) identified
+- **Geolocation**: All locations successfully geocoded using Nominatim
+- **Spatial Clustering**: DBSCAN identified 13 distinct outbreak clusters
+
+### Key Findings
+1. **Geographic Distribution**: 
+   - Southeast Asia: Jakarta (27), Bangkok (17), Manila, Singapore
+   - Americas: Miami (18), San Juan, Bogotá, Rio de Janeiro
+   - No European or Middle Eastern outbreaks in dataset
+
+2. **Disease Patterns**:
+   - Zika virus: 54 cases (35%)
+   - TB: 49 cases (32%)
+   - Other diseases: 51 cases (33%)
+
+3. **Cluster Analysis**:
+   - 13 spatial clusters identified using DBSCAN (eps=400km, min_samples=3)
+   - Zero noise points suggests clustering parameters may be too lenient
+   - Clusters primarily represent geographic proximity rather than epidemiological relationships
+
+### Contrast with Original Analysis (2020)
+
+| Aspect | Original (2020) | Replication (2025) |
+|--------|-----------------|-------------------|
+| **Data Source** | Template-based synthetic headlines | LLM-generated headlines |
+| **Geographic Coverage** | Global distribution including Europe/Middle East | Limited to tropical/subtropical regions |
+| **Disease Types** | Zika-focused with diverse secondary diseases | Zika, TB, and other tropical diseases |
+| **Clustering Approach** | KMeans + DBSCAN with custom distance metrics | DBSCAN with geodesic distance |
+| **Visualization** | Static Basemap plots | Interactive Folium maps |
+| **Analysis Depth** | Multi-phase pipeline with temporal analysis | Streamlined single-script approach |
+
+### Limitations Identified
+1. **Geographic Bias**: Current dataset lacks European/Middle Eastern outbreaks
+2. **Clustering Interpretation**: Clusters based purely on spatial proximity, not epidemiological relationships
+3. **Temporal Analysis**: Limited time-series analysis compared to original
+4. **Disease Diversity**: Focus on tropical diseases, missing global health threats
+
 ## Project Structure
 ```
 my-ddo/
@@ -25,6 +67,8 @@ my-ddo/
 │   └── llm_headlines.txt      # LLM-enhanced headlines
 ├── 2020Analysis/           # Original analysis notebooks
 │   └── step*.ipynb         # Original implementation steps
+├── step4_llm_analysis.py   # Replication analysis script
+├── outbreak_map.html       # Interactive visualization
 ├── generate_synthetic_headlines.py  # Template-based generator
 └── generate_llm_headlines.py        # LLM-based generator
 ```
@@ -41,6 +85,11 @@ my-ddo/
    - Created dedicated `data/` directory for synthetic datasets
    - Set up new analysis pipeline structure
 
+3. Replication Implementation:
+   - Successfully replicated core analysis pipeline
+   - Generated interactive map visualizations
+   - Identified key differences from original approach
+
 ## Dependencies
 - Python 3.9+
 - Core packages: pandas, spaCy, scikit-learn, matplotlib/Seaborn, GeoPy
@@ -51,6 +100,8 @@ my-ddo/
 - Evaluate data quality metrics between approaches
 - Enhance visualization and dashboard components
 - Document improvements and insights
+- Address geographic bias in data generation
+- Improve clustering interpretation with epidemiological context
 
 ## Getting Started
 1. Clone the repository
