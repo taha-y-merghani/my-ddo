@@ -28,6 +28,7 @@ import folium
 from folium import plugins
 from sklearn.cluster import DBSCAN
 from geopy.distance import geodesic
+import webbrowser
 
 def print_section(title):
     """Helper function to print formatted section headers"""
@@ -376,4 +377,10 @@ def main():
         print("Analysis aborted due to data loading error.")
 
 if __name__ == "__main__":
-    main() 
+    main()
+    # Automatically open the map in the default browser
+    try:
+        webbrowser.open('outbreak_map.html')
+        print("Opened 'outbreak_map.html' in your default browser.")
+    except Exception as e:
+        print(f"Could not open browser automatically: {e}") 
