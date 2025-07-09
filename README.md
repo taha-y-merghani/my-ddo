@@ -110,5 +110,8 @@ my-ddo/
 4. Generate synthetic data using provided scripts
 5. Run analysis notebooks for comparison
 
+**Quick Visualization:**
+After running the analysis script (`python step4_llm_analysis.py`), the interactive outbreak map (`outbreak_map.html`) will automatically open in your default web browser for immediate viewing. No manual steps required!
+
 ## License
 [Original Project License] 
